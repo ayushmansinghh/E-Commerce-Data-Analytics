@@ -221,3 +221,19 @@ The notebook connects to MySQL using PyMySQL and loads the transaction data into
 **Ayushman Singh**
 
 GitHub: https://github.com/ayushmansinghh
+## 📊 Python Analysis Visualizations
+
+### Monthly & Country Revenue
+![Top Countries by Revenue](screenshots/top_countries_revenue.png)
+
+### Product Revenue
+![Top Products by Revenue](screenshots/top_products_revenue.png)
+
+### Customer Revenue
+![Top Customers by Revenue](screenshots/top_customers_revenue.png)
+
+### Revenue by Day
+![Revenue by Day](screenshots/revenue_by_day.png)
+
+### Revenue by Hour
+![Revenue by Hour](screenshots/revenue_by_hour.png)
