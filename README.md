@@ -226,6 +226,8 @@ GitHub: https://github.com/ayushmansinghh
 ### Monthly & Country Revenue
 ![Top Countries by Revenue](screenshots/top_countries_revenue.png)
 
+![Monthly Revenue Trend](screenshots/monthly_revenue.png)
+
 ### Product Revenue
 ![Top Products by Revenue](screenshots/top_products_revenue.png)
 
