@@ -261,9 +261,9 @@ An interactive Power BI dashboard analyzing e-commerce sales performance, custom
 
 Interactive Power BI dashboard analyzing sales performance, customers, products, and revenue trends.
 
-### Dashboard preview
+### Dashboard Preview
 
-![E-Commerce Sales Analytics Dashboard](./screenshots/powerbi_dashboard.png)
+![E-Commerce Sales Analytics Dashboard](https://raw.githubusercontent.com/ayushmansinghh/E-Commerce-Data-Analytics/main/screenshots/powerbi_dashboard.png)
 
 ### Dashboard Files
 
