@@ -239,3 +239,29 @@ GitHub: https://github.com/ayushmansinghh
 
 ### Revenue by Hour
 ![Revenue by Hour](screenshots/revenue_by_hour.png)
+
+
+## 📊 Power BI Dashboard
+
+### E-Commerce Sales Analytics Dashboard
+
+An interactive Power BI dashboard analyzing e-commerce sales performance, customer behavior, product performance, and revenue trends.
+
+**Key Analysis Areas:**
+- Revenue and order performance
+- Monthly revenue trends
+- Country-wise revenue
+- Top products by revenue
+- Top customers by revenue
+- Revenue by day and hour
+- Interactive Country and Date filters
+
+### Dashboard Preview
+
+![E-Commerce Sales Analytics Dashboard](screenshots/powerbi_dashboard.png)
+
+### Power BI Files
+
+- [Power BI Dashboard (.pbix)](powerbi/E-Commerce-Sales-Analytics-Dashboard.pbix)
+- [Dashboard PDF](powerbi/E-Commerce-Sales-Analytics-Dashboard.pdf)
+- [Screenshot](screenshots/powerbi_dashboard.png)
