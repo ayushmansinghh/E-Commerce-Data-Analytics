@@ -256,18 +256,20 @@ An interactive Power BI dashboard analyzing e-commerce sales performance, custom
 - Revenue by day and hour
 - Interactive Country and Date filters
 
+
+### E-Commerce Sales Analytics Dashboard
+
+Interactive Power BI dashboard analyzing sales performance, customers, products, and revenue trends.
+
 ### Dashboard Preview
 
-![E-Commerce Sales Analytics Dashboard](screenshots/powerbi_dashboard.png)
+![E-Commerce Sales Analytics Dashboard](./screenshots/powerbi_dashboard.png)
 
-### Power BI Files
+### Dashboard Files
 
-- 
- [Power BI Dashboard (.pbix)](./powerbi/E-Commerce-Sales-Analytics-Dashboard.pbix.pbix)
-[Dashboard PDF](./powerbi/E-Commerce-Sales-Analytics-Dashboard.pdf)
-- ![E-Commerce Sales Analytics Dashboard](./screenshots/powerbi_dashboard.png.png)
-  
+📊 [**Open Power BI Dashboard (.pbix)**](./powerbi/E-Commerce-Sales-Analytics-Dashboard.pbix.pbix)
 
+📄 [**View Dashboard PDF**](./powerbi/E-Commerce-Sales-Analytics-Dashboard.pdf)
 
 
 
