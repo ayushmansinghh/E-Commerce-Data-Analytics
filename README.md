@@ -263,8 +263,7 @@ An interactive Power BI dashboard analyzing e-commerce sales performance, custom
 ### Power BI Files
 
 - 
-[Power BI Dashboard (.pbix)](./powerbi/E-Commerce-Sales-Analytics-Dashboard.pbix)
-[Power BI Dashboard (.pbix)](powerbi/E-Commerce-Sales-Analytics-Dashboard.pbix)
+[Power BI Dashboard (.pbix)](./powerbi/E-Commerce-Sales-Analytics-Dashboard.pbix.pbix)
 [Dashboard PDF](./powerbi/E-Commerce-Sales-Analytics-Dashboard.pdf)
 - ![E-Commerce Sales Analytics Dashboard](./screenshots/powerbi_dashboard.png.png)
  
